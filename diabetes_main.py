@@ -1,5 +1,5 @@
 import diabetes_home
-import diabetes_diabetes_predict
+import diabetes_predict
 import diabetes_plots
 pages_dict = {"Home": diabetes_home, 
            "Predict Diabetes": diabetes_predict, 
